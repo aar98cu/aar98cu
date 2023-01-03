@@ -35,6 +35,6 @@
 
 <h2>📈 &nbsp;My GitHub history</h2>
 <p align="center">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aar98cu&show_icons=true&theme=tokyonight" height="160"/></a>
-  <a href="https://github.com/aar98cu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar98cu&layout=compact" height="160"/></a>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aar98cu&show_icons=true&theme=tokyonight" height="130"/></a>
+  <a href="https://github.com/aar98cu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar98cu&layout=compact" height="130"/></a>
 </p>
