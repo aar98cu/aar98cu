@@ -1,6 +1,8 @@
-<a href=" https://www.instagram.com/thepiyushmalhotra/ "> 
-  <img height="50" src=" https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png "/> 
-</a>
+<p>I am a full stack developer and PhD student in computer science from Mexico and this is my review</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aar98cu&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&currStreakNum=17069B&background=FFFFFF&sideLabels=17069B&currStreakLabel=17069B"/></a>
+</p>
 
 <h2> 🚀 &nbsp;Some tools i have used and learned</h2>
 <p align="left">
@@ -31,4 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex width="45" height="45"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aar98cu&theme=radical)
+<h2>📈 &nbsp;My GitHub history</h2>
+<p align="center">
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aar98cu&show_icons=true&theme=tokyonight" height="160"/></a>
+  <a href="https://github.com/aar98cu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar98cu&layout=compact" height="160"/></a>
+</p>
