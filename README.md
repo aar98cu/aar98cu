@@ -1,80 +1,32 @@
-<div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=PhD+Student+%26+Researcher;Full+Stack+Developer;AI+%26+Computer+Vision+Specialist;Industrial+Automation+Engineer" alt="Typing SVG" />
-  </a>
-
-  <br/>
-  
-  <p>Building intelligent systems from Mexico 🇲🇽</p>
-
-</div>
-
 ---
 
-### 🔭 Current Focus & Projects
+### 🚀 Featured Projects
 
-I am currently leveraging my background in CS to build robust solutions in three main areas:
-
-- 🧠 **AI & Computer Vision:** Developing pipelines for **Intelligent Document Processing (IDP)**, focusing on classification and information extraction using state-of-the-art models.
-- 📱 **Enterprise Mobile Solutions:** Architecting cross-platform management applications using **Flutter**, designed for scalability and business efficiency.
-- ⚙️ **Industrial Automation:** Engineering **Automated Liquid Packaging Systems** (Filling Lines), integrating hardware and software to optimize production flows.
-
----
-
-### 🛠️ Technology Stack
-
-<table align="center">
+<table border="0">
   <tr>
-    <td align="center" width="90"><strong>AI & Data</strong></td>
-    <td align="center" width="90"><strong>Mobile/Web</strong></td>
-    <td align="center" width="90"><strong>Embedded</strong></td>
-    <td align="center" width="90"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="pytorch"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy"/>
+    <td width="33%" align="center" valign="top">
+      <h3>🧠 Intelligent Doc Processing</h3>
+      <p>A high-precision document classifier comparing <strong>YOLOv8 vs EfficientNetV2</strong>. Designed to extract information from receipts and official documents with >95% accuracy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      </p>
+      </td>
+    <td width="33%" align="center" valign="top">
+      <h3>📡 IoT & LoRa Ecosystem</h3>
+      <p>Full-stack IoT solution integrating <strong>ESP32</strong> sensors, offline/online synchronization, and a <strong>Flutter App</strong> interface. Includes a WhatsApp bot integration for alerts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+      </p>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="flutter"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="dart"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="android"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="c"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="c++"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" alt="arduino"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="embedded"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="rpi"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="matlab"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40" alt="latex"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️ Industrial Automation</h3>
+      <p>Control systems for liquid packaging lines. Real-time monitoring of flow sensors (YF-B1) and precise actuator control for automated filling processes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Embedded_C-004482?style=flat&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-PLCs-orange"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -82,6 +34,12 @@ I am currently leveraging my background in CS to build robust solutions in three
 ---
 
 <div align="center">
-  <h3>⚡ Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aar98cu&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <h3>📫 Let's Connect</h3>
+  <p>Open to collaborations on Computer Vision & Industrial IoT research.</p>
+  <a href="mailto:TU_CORREO@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="LINK_A_TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
