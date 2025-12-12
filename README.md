@@ -1,12 +1,13 @@
 <div align="center">
-  <h1>Hi there, I'm a PhD Student & Full Stack Developer from Mexico 🇲🇽</h1>
-  <p>Specializing in Computer Vision, Mobile Development, and Industrial Automation.</p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=PhD+Student+%26+Researcher;Full+Stack+Developer;AI+%26+Computer+Vision+Specialist;Industrial+Automation+Engineer" alt="Typing SVG" />
+  </a>
 
-  <div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=aar98cu" alt="GitHub Streak" />
-    </a>
-  </div>
+  <br/>
+  
+  <p>Building intelligent systems from Mexico 🇲🇽</p>
+
 </div>
 
 ---
@@ -80,11 +81,7 @@ I am currently leveraging my background in CS to build robust solutions in three
 
 ---
 
-### 📈 GitHub Stats
-
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aar98cu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="aar98cu's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar98cu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-  </p>
+  <h3>⚡ Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aar98cu&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
