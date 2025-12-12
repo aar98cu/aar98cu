@@ -2,9 +2,11 @@
   <h1>Hi there, I'm a PhD Student & Full Stack Developer from Mexico 🇲🇽</h1>
   <p>Specializing in Computer Vision, Mobile Development, and Industrial Automation.</p>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aar98cu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&currStreakNum=17069B&background=0D1117&sideLabels=17069B&currStreakLabel=17069B" alt="GitHub Streak" />
-  </a>
+  <div align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=aar98cu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&ring=79ff97&currStreakLabel=79ff97" alt="GitHub Streak" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -81,10 +83,8 @@ I am currently leveraging my background in CS to build robust solutions in three
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/aar98cu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=aar98cu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats"/>
-  </a>
-  <a href="https://github.com/aar98cu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar98cu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages"/>
-  </a>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=aar98cu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="aar98cu's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar98cu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  </p>
 </div>
